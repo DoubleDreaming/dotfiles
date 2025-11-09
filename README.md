@@ -1,2 +1,3 @@
 # dotfiles
-🛠🛠🛠
+
+Visual Studio Code

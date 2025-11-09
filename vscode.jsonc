@@ -1,0 +1,41 @@
+{
+  // EDITOR
+  // Font: https://www.jetbrains.com/lp/mono/
+  "editor.fontFamily": "JetBrains Mono, Consolas, 'Courier New', monospace",
+  "editor.fontSize": 16,
+  "editor.lineHeight": 26,
+  "editor.fontWeight": "bold",
+  "editor.formatOnSave": true,
+  "editor.lineNumbers": "relative",
+  "editor.wordWrap": "bounded",
+  "editor.rulers": [
+    80,
+    100
+  ],
+  // FILE
+  "files.autoSave": "afterDelay",
+  "files.autoGuessEncoding": true,
+  "files.insertFinalNewline": true,
+  // TERMINAL
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  // VIM
+  // Extension: https://marketplace.visualstudio.com/items?itemName=vscodevim.vim
+  "vim.leader": "<space>",
+  "vim.easymotion": true,
+  "vim.useCtrlKeys": false,
+  "vim.useSystemClipboard": true,
+  "vim.insertModeKeyBindings": [
+    {
+      "before": [
+        "j",
+        "j"
+      ],
+      "after": [
+        "<Esc>"
+      ]
+    }
+  ],
+  // Chat
+  "chat.editor.fontSize": 16,
+  "chat.fontSize": 16
+}
